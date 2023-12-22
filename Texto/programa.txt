@@ -1,0 +1,17 @@
+Programa miProgramaMiniLenguaje {
+	Inicio {
+        Entero base
+        Leer base
+        base = 5x3-4
+        Escribir ,'Hola ','el area es ', base
+	}
+
+
+
+    funcion{
+        dnfjkdnlg
+        djndojgnd
+        djndjnd
+    }
+}
+	
